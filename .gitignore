@@ -99,3 +99,8 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+#my
+*.pyc
+slamapp/migrations/
+db.sqlite3
